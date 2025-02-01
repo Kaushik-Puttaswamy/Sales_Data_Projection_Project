@@ -18,7 +18,8 @@ Features:
  •	Generates random sales orders with orderid, product_name, quantity, and price.
 	
  •	Uses boto3 to connect to AWS DynamoDB and insert records.
-	•	Runs continuously, adding a new record every 2 seconds.
+	
+ •	Runs continuously, adding a new record every 2 seconds.
 	•	Can be stopped using a manual keyboard interrupt (Ctrl + C).
 
 Setup & Execution:
