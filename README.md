@@ -24,5 +24,7 @@ Features:
  •	Can be stopped using a manual keyboard interrupt (Ctrl + C).
 
 Setup & Execution:
-	1.	Ensure you have AWS credentials configured (aws configure).
-	2.	Install dependencies:
+	
+ 1.	Ensure you have AWS credentials configured (aws configure).
+	
+ 2.	Install dependencies:
