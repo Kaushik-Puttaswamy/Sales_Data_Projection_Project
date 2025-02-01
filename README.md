@@ -20,7 +20,8 @@ Features:
  •	Uses boto3 to connect to AWS DynamoDB and insert records.
 	
  •	Runs continuously, adding a new record every 2 seconds.
-	•	Can be stopped using a manual keyboard interrupt (Ctrl + C).
+	
+ •	Can be stopped using a manual keyboard interrupt (Ctrl + C).
 
 Setup & Execution:
 	1.	Ensure you have AWS credentials configured (aws configure).
